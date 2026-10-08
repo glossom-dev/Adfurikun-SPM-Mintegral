@@ -10,11 +10,11 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/glossom-dev/Adfurikun-SPM-Core.git",
-            exact: "4.4.0"
+            exact: "4.5.0-alpha.1"
         ),
         .package(
             url: "https://github.com/Mintegral-official/MintegralAdSDK-Swift-Package.git",
-            exact: "8.0.5"
+            exact: "8.1.7"
         ),
     ],
     targets: [
